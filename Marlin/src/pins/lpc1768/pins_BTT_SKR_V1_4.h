@@ -22,7 +22,7 @@
 #pragma once
 
 #ifndef BOARD_INFO_NAME
-  #define BOARD_INFO_NAME "BTT SKR V1.4"
+  #define BOARD_INFO_NAME "BIGTREE SKR 1.4"
 #endif
 
 //
@@ -149,7 +149,7 @@
   #define E1_CS_PIN                        P1_01
 #endif
 
-#define TEMP_1_PIN                      P0_23_A0  // A2 (T2) - (69) - TEMP_1_PIN
+//#define TEMP_1_PIN                      P0_23_A0  // A2 (T2) - (69) - TEMP_1_PIN
 #define TEMP_BED_PIN                    P0_25_A2  // A0 (T0) - (67) - TEMP_BED_PIN
 
 //
