@@ -104,6 +104,9 @@
  *
  * :[-1, 0, 1, 2, 3, 4, 5, 6, 7]
  */
+
+#define FLASH_EEPROM_EMULATION //RJB - Added to resolve serial port conflicts (SKR Mini E3 Issue 127)
+
 #define SERIAL_PORT 0
 
 /**
